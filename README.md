@@ -9,7 +9,8 @@ A professional graphical user interface (GUI) was developed using Tkinter for ea
 This project was developed as part of an Artificial Intelligence Internship Task.
 
 
-
+<img width="1121" height="779" alt="Image" src="https://github.com/user-attachments/assets/26649f85-6942-4b44-b068-d5275ca308d3" />
+<img width="1116" height="786" alt="Image" src="https://github.com/user-attachments/assets/f16b3432-d382-4a29-b3cf-cc350558d142" />
 
 
 
